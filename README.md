@@ -1,6 +1,6 @@
 # plugpagservice_markdown
 
-Adaptação da documentação para markdown já existente para integradores da biblioteca PlugPag Service.
+Adaptação da documentação já existente para o modelo markdown.
 
 Documentação original disponível em:
 https://github.com/pagseguro/pagseguro-sdk-plugpagservicewrapper/blob/master/Documentacao.pdf
